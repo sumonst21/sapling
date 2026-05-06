@@ -7,7 +7,7 @@
     "eslint": "eslint src --ext .ts --ext .tsx"
   },
   "devDependencies": {
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "jsonc-parser": "^2.2.1",
     "monaco-editor": "^0.21.2",
     "prettier": "2.7.1",
